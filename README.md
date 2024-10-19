@@ -1,11 +1,8 @@
-# 💫 About Me:
-🙋🏾‍♂️ ~ Hello there, I am Afaaf Hariri. Welcome to my GitHub!<br>
-🧑🏾‍💻 ~ Sharing my tech journey<br>
-👨🏾‍🎓 ~ Undegradute at Sri Lanka Institute of Information Technology<br>
+#### Hi there, I'm Hariri<br>Welcome to my GitHub ✌🏽
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=default_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=default_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=afaafhariri&limit=5&theme=default&combine_all_yearly_contributions=true)
 # 💻 Tech Stack:
