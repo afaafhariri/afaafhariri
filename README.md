@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, <br>I am Afaaf Hariri
+Hello there, <br>I am Afaaf Hariri.<br>Welcome to my GitHub!
 
 
 ## 🌐 Socials:
