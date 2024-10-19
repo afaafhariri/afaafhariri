@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello there, <br>I am Afaaf Hariri.<br>Welcome to my GitHub!
+🙋🏾‍♂️ ~ Hello there, I am Afaaf Hariri. Welcome to my GitHub!<br>
+🧑🏾‍💻 ~ Sharing my tech journey<br>
+👨🏾‍🎓 ~ Undegradute at Sri Lanka Institute of Information Technology<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=dark&hide_border=false)<br/>
