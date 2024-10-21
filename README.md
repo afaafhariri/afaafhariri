@@ -34,9 +34,10 @@
 
 ###
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=default_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=default_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=afaafhariri&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default_repocard&hide_border=false)
 
 ---
 
