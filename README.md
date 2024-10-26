@@ -34,9 +34,13 @@
 
 ###
 ---
-![](https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; gap: 10px; align-items: stretch">
+  <img src="https://github-readme-stats.vercel.app/api?username=afaafhariri&show_icons=true&bg_color=30,00B4DB,0083B0&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&card_width=200&rank_icon=github&include_all_commits=true&line_height=35&hide_rank=true&custom_title=GitHub%20Stats&hide_title=true" alt="GitHub Stats" width="250">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&background=0083B0&stroke=fff&ring=00B4DB&fire=00B4DB&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff&hide_border=true&card_width=200&hide_longest_streak=true&hide_total_contributions=true" alt="GitHub Streak" width="250">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&layout=compact&bg_color=30,00B4DB,0083B0&title_color=fff&text_color=fff&hide_border=true&card_width=200&hide_title=true" alt="Top Languages" width="250">
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=afaafhariri&icon=0&color=0)](https://visitcount.itsvg.in)
