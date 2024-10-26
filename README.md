@@ -1,5 +1,10 @@
-### Hello there, I'm Afaaf Hariri<br>Welcome to my GitHub ✌🏽<br>
+## Hello there👋🏾<br>I'm Afaaf Hariri
+<p align="left">
+  Currently pursuing a Bachelor's degree in Information Technology at Sri Lanka Institute of Information Technology. I'm passionate about learning new technologies and developing skills to build robust full stack applications.
+</p>
+
 ---
+
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <img width="5" />
@@ -35,12 +40,13 @@
 ###
 ---
 <div style="display: flex; gap: 10px; align-items: stretch">
-  <img src="https://github-readme-stats.vercel.app/api?username=afaafhariri&show_icons=true&bg_color=30,00B4DB,0083B0&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&card_width=200&rank_icon=github&include_all_commits=true&line_height=35&hide_rank=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="250">
+  <img src="https://github-readme-stats.vercel.app/api?username=afaafhariri&show_icons=true&bg_color=30,4A00E0,8E2DE2&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&card_width=200&rank_icon=github&include_all_commits=true&line_height=35&hide_rank=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="250">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&background=0083B0&stroke=fff&ring=00B4DB&fire=00B4DB&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff&hide_border=true&card_width=200&hide_longest_streak=true" alt="GitHub Streak" width="250">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&background=8E2DE2&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff&hide_border=true&card_width=200&hide_longest_streak=true" alt="GitHub Streak" width="250">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&layout=compact&bg_color=30,00B4DB,0083B0&title_color=fff&text_color=fff&hide_border=true&card_width=200" alt="Top Languages" width="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&layout=compact&bg_color=30,4A00E0,8E2DE2&title_color=fff&text_color=fff&hide_border=true&card_width=200" alt="Top Languages" width="250">
 </div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=afaafhariri&icon=0&color=0)](https://visitcount.itsvg.in)
