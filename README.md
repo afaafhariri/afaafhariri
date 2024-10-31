@@ -1,4 +1,6 @@
-![Afaaf Hariri](https://raw.githubusercontent.com/afaafhariri/afaafhariri/main/name.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/afaafhariri/afaafhariri/refs/heads/main/name.svg"/>
+</div>
 
 <p align="center">
   Currently pursuing a Bachelor's degree in Information Technology at Sri Lanka Institute of Information Technology. I'm passionate about learning new technologies and developing skills to build robust full stack applications.
