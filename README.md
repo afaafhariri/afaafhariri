@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://gist.githubusercontent.com/afaafhariri/1cc0d2b7f2baa52605c9452a6c48f40e/raw/97b431e4b683f0c67d2581282193a63830ef1cc9/animated_signature.svg"/>
+  <img src="https://gist.githubusercontent.com/afaafhariri/1cc0d2b7f2baa52605c9452a6c48f40e/raw/fe97ff1be597f2c4d5cbfb15856eaa00902cecb4/animated_signature.svg"/>
 </h1>
 
 <p align="center">
