@@ -1,0 +1,18 @@
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Default color for light mode */
+    .signature {
+      fill: black;
+    }
+
+    /* Dark mode color */
+    @media (prefers-color-scheme: dark) {
+      .signature {
+        fill: white;
+      }
+    }
+  </style>
+  <text x="10" y="50" font-family="'Great Vibes', cursive" font-size="36" class="signature">
+    Afaaf Hariri
+  </text>
+</svg>

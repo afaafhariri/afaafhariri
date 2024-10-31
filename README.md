@@ -1,4 +1,6 @@
-<h1 align="center">Afaaf Hariri</h1>
+<h1 align="center">
+  <img src="path-to-your-svg/afaaf_signature.svg" alt="Afaaf Hariri signature style">
+</h1>
 
 <p align="center">
   Currently pursuing a Bachelor's degree in Information Technology at Sri Lanka Institute of Information Technology. I'm passionate about learning new technologies and developing skills to build robust full stack applications.
@@ -39,7 +41,9 @@
 </div>
 
 ###
+
 ---
+
 <div align="center">
 <picture>
     <source 
