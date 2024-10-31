@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://gist.githubusercontent.com/afaafhariri/1cc0d2b7f2baa52605c9452a6c48f40e/raw/fe97ff1be597f2c4d5cbfb15856eaa00902cecb4/animated_signature.svg"/>
-</h1>
+![Afaaf Hariri](https://raw.githubusercontent.com/afaafhariri/afaafhariri/main/name.svg)
 
 <p align="center">
   Currently pursuing a Bachelor's degree in Information Technology at Sri Lanka Institute of Information Technology. I'm passionate about learning new technologies and developing skills to build robust full stack applications.
