@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="path-to-your-svg/afaaf_signature.svg" alt="Afaaf Hariri signature style">
+  <img src="/animated_name.svg" alt="Afaaf Hariri signature style">
 </h1>
 
 <p align="center">
