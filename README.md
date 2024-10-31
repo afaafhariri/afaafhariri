@@ -1,5 +1,5 @@
 <h1 align="center">
-  <script src="https://gist.github.com/afaafhariri/1cc0d2b7f2baa52605c9452a6c48f40e.js"></script>
+  <img src="https://gist.githubusercontent.com/afaafhariri/1cc0d2b7f2baa52605c9452a6c48f40e/raw/a9f719765ba67b3b06004befa87ded7b5cf32eec/animated_signature.svg" />
 </h1>
 
 <p align="center">
