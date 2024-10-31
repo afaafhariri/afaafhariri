@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/animated_name.svg" alt="Afaaf Hariri signature style">
+  <script src="https://gist.github.com/afaafhariri/1cc0d2b7f2baa52605c9452a6c48f40e.js"></script>
 </h1>
 
 <p align="center">
