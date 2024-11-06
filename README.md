@@ -5,7 +5,7 @@
 -->
 <h1 align="center">Hariri's GitHub</h1>
 <p align="center">
-  Currently pursuing a Bachelor's degree in Information Technology at Sri Lanka Institute of Information Technology. I'm passionate about learning new technologies and developing skills to build robust full stack applications.
+  Currently pursuing Bachelor of Science in Information Technology at Sri Lanka Institute of Information Technology. I'm passionate about learning new technologies and developing skills to build robust full stack applications.
 </p>
 
 ---
