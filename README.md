@@ -1,8 +1,3 @@
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/afaafhariri/afaafhariri/refs/heads/main/name.svg"/>
-</div>
--->
 <h1 align="center">Afaaf Hariri</h1>
 <p align="center">
   Currently pursuing Bachelor of Science in Information Technology at Sri Lanka Institute of Information Technology. I'm passionate about learning new technologies and developing skills to build robust full stack applications.
@@ -48,35 +43,52 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo" /></a>
 </div>
 
-###
-
 ---
 
 <div align="center">
-<picture>
+  <!-- GitHub Stats -->
+  <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=afaafhariri&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true&line_height=35&hide_rank=true&custom_title=GitHub%20Stats"
+      srcset="https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=afaafhariri&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&line_height=35&hide_rank=true&custom_title=GitHub%20Stats"
+      srcset="https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=default&hide_border=false&include_all_commits=false&count_private=false"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=afaafhariri&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&line_height=35&hide_rank=true&custom_title=GitHub%20Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </picture>
   <br/>
+
+  <!-- GitHub Streak Stats -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&layout=compact&theme=dark&hide_border=true"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=dark&hide_border=false"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&layout=compact&theme=default&hide_border=true"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default&hide_border=false"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default&hide_border=false" alt="GitHub Streak Stats" />
   </picture>
+  <br/>
+
+  <!-- Top Languages -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </picture>
+  <br/>
 </div>
+
 
 ---
 
