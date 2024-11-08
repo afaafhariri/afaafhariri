@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/afaafhariri/afaafhariri/refs/heads/main/name.svg"/>
 </div>
 -->
-<h1 align="center">Hariri's GitHub</h1>
+<h1 align="center">Afaaf Hariri</h1>
 <p align="center">
   Currently pursuing Bachelor of Science in Information Technology at Sri Lanka Institute of Information Technology. I'm passionate about learning new technologies and developing skills to build robust full stack applications.
 </p>
