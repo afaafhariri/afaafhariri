@@ -64,18 +64,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=afaafhariri&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&line_height=35&hide_rank=true&custom_title=GitHub%20Stats" />
   </picture>
-<br/>
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=dark&hide_border=true&hide_longest_streak=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default&hide_border=true&hide_longest_streak=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default&hide_border=true&hide_longest_streak=true" />
-  </picture>
   <br/>
   <picture>
     <source
