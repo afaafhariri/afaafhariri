@@ -48,15 +48,19 @@
 ---
 
 <div align="center">
-
+  
 ![](https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
 
+---
+
+<div align="center">
+  <a href="https://app.daily.dev/afaafhariri"><img src="https://api.daily.dev/devcards/v2/Hus8q5eXbx9dsSYWiWDgM.png?type=wide&r=638" width="652" alt="Afaaf Hariri's Dev Card"/></a>
+</div>
 
 ---
 
