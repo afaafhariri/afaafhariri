@@ -56,12 +56,6 @@
 ---
 
 <div align="center">
-  <a href="https://app.daily.dev/afaafhariri"><img src="https://api.daily.dev/devcards/v2/Hus8q5eXbx9dsSYWiWDgM.png?type=wide&r=638" width="652" alt="Afaaf Hariri's Dev Card"/></a>
-</div>
-
----
-
-<div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=afaafhariri&icon=0&color=0" alt="Visit Count">
   </a>
