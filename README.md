@@ -53,10 +53,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=afaafhariri&icon=0&color=0" alt="Visit Count">
-  </a>
-</div>
