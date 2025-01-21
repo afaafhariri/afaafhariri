@@ -2,7 +2,6 @@
 <p align="center">
   Currently pursuing Bachelor of Science in Information Technology at Sri Lanka Institute of Information Technology. I'm passionate about learning new technologies and developing skills to build robust full stack applications.
 </p>
-</br>
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <img width="5" />
