@@ -2,9 +2,7 @@
 <p align="center">
   Currently pursuing Bachelor of Science in Information Technology at Sri Lanka Institute of Information Technology. I'm passionate about learning new technologies and developing skills to build robust full stack applications.
 </p>
-
----
-
+</br>
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <img width="5" />
@@ -46,14 +44,15 @@
   <img width="5" />
     <!--
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo" /></a>
+   -->
 </div>
-  -->
-  
----
+
+</br>
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=afaafhariri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default_repocard&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/toplangs/username=afaafhariri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
