@@ -3,7 +3,7 @@
 👨🏾‍🎓 BSC (Hons) Information Technology undergraduate at **SLIIT** \
 👨🏾‍💻 Currently learning **NextJS** and **Spring Boot** \
 ⚡️ Self motivated dev \
-✉️ haririafaaf@gmail.com \
+✉️ haririafaaf@gmail.com
 
 <!--
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
