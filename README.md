@@ -6,6 +6,8 @@
 🤝 Looking to collaborate on **community projects** and **open source** projects \
 ✉️ haririafaaf@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&layout=compact)](https://github.com/afaafhariri/github-readme-stats)
+
 <!--
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <img width="5" />
