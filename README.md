@@ -42,9 +42,3 @@
   <img width="5" />
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo" /></a>
 -->
-
-<div align="center">
-  
-![](https://githubreadmestats.vercel.app/api/toplangs/username=afaafhariri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
