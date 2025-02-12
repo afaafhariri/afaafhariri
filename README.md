@@ -1,7 +1,10 @@
-<h1 align="center">Afaaf Hariri</h1>
-<p align="center">
- 🎓 ~ Sri Lanka Institute of Information Technology
-</p>
+# Afaaf Hariri
+
+👨🏾‍🎓 BSC (Hons) Information Technology undergraduate at **SLIIT** \
+👨🏾‍💻 Currently learning **NextJS** and **Spring Boot**
+⚡️ Self motivated dev
+✉️ haririafaaf@gmail.com
+
 <!--
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <img width="5" />
