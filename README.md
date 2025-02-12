@@ -3,6 +3,7 @@
 👨🏾‍🎓 BSC (Hons) Information Technology undergraduate at **SLIIT** \
 👨🏾‍💻 Currently learning **NextJS** and **Spring Boot** \
 ⚡️ Self motivated dev \
+🤝 Looking to collaborate on **community projects** and **open source** projects \
 ✉️ haririafaaf@gmail.com
 
 <!--
