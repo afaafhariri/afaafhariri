@@ -1,6 +1,6 @@
 # Afaaf Hariri
 
-👨🏾‍🎓 BSC (Hons) in Information Technology undergraduate at **SLIIT** \
+👨🏾‍🎓 BSc (Hons) in Information Technology undergraduate at **SLIIT** \
 👨🏾‍💻 Currently learning **Next.Js** and **Spring Boot** \
 ⚡️ Self motivated developer \
 🤝 Looking to collaborate on **community projects** and **open source** projects \
