@@ -5,6 +5,3 @@
 ⚡️ Self motivated developer \
 🤝 Looking to collaborate on **community projects** and **open source** projects \
 ✉️ haririafaaf@gmail.com
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&layout=compact) \
-![afaafhariri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afaafhariri&theme=default&hide_border=true)
