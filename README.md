@@ -27,4 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&layout=compact)](https://github.com/afaafhariri/github-readme-stats)
+
 ###
