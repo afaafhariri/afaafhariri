@@ -10,6 +10,6 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&layout=compact)](https://github.com/afaafhariri/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=afaafhariri&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
