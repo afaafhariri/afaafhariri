@@ -2,7 +2,7 @@
 
 👨🏾‍🎓 BSc (Hons) in Information Technology undergraduate at **SLIIT** \
 🌱 Currently learning **Spring Boot** and **Azure** \
-⚡️ Self motivated \
+⚡️ Self motivated
 
 ###
 
