@@ -1,7 +1,7 @@
 # Afaaf Hariri
 
 👨🏾‍🎓 BSc (Hons) in Information Technology undergraduate at **SLIIT** \
-🌱 Currently learning **Spring Boot** and **Azure** \
+🌱 Currently learning **Docker** and **Azure** \
 ⚡️ Self motivated
 
 ###
