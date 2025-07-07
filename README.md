@@ -1,7 +1,7 @@
 # Afaaf Hariri
 
 👨🏾‍🎓 Information Technology **student** at SLIIT \
-🌱 Currently learning to write **microservices** with **SpringBoot** \
+🌱 Learning to write **microservices** with **SpringBoot** \
 ⚡️ Self motivated
 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,spring,nodejs,react,next,gcp,docker&theme=light)](https://skillicons.dev) 
