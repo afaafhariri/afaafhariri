@@ -1,8 +1,9 @@
 # Afaaf Hariri
 
 Hello there👋🏾\
-I'm a computing student at SLIIT with a strong passion for software engineering, but I mostly spend my time debugging my code and reminding myself that I am the "master" of my computer, even though it keeps giving me weird errors.
-I hope that helps. Let me know if you need anything else!
+I'm a computing student at SLIIT with a strong passion for software engineering and I mostly spend my time debugging my code. I hope that helps. Let me know if you need anything else./
+
+(i know it sounds robotic, lol)
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,java,python,nodejs,spring,fastapi,react,next,gcp,aws,docker&theme=light)](https://skillicons.dev) 
 
