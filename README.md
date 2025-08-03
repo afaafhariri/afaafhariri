@@ -1,7 +1,7 @@
 # Afaaf Hariri
 
 Hello there👋🏾\
-I'm a computing student at SLIIT with a strong passion for software engineering and I mostly spend my time debugging my code. I hope that helps. Let me know if you need anything else! (i know this sounds robotic, lol).
+I'm a computing **student at SLIIT** with a strong passion for software engineering and I mostly spend my time debugging my code. I hope that helps. Let me know if you need anything else! (i know this sounds robotic, lol).
 
 Open for collaboration.
 
