@@ -1,7 +1,7 @@
 # Afaaf Hariri
 
 Hello there👋🏾\
-I'm a computing **student at SLIIT** and a Software Engineer Intern at Niogin who spends most of the time debugging my own code. I enjoy exploring new concepts and figuring out how stuff actually work under the hood. Here to grind⚡️
+I'm a computing **student at SLIIT** and a Software Engineer Intern at Niogin. I enjoy exploring new concepts and figuring out how stuff actually work under the hood. Here to grind⚡️
 <!--
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,java,python,nodejs,spring,fastapi,react,next,mysql,postgresql,mongodb,gcp,aws,docker&theme=light)](https://skillicons.dev) 
 
