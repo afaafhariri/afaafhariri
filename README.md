@@ -1,5 +1,3 @@
-# Hi, I'm Afaaf Hariri 👋
-
 Cloud-native enthusiast.
 
 [![afaafhariri's GitHub stats](https://gitshine.com/card/afaafhariri?theme=night)](https://gitshine.com/stats/afaafhariri)
