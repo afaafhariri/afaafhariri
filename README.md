@@ -1,7 +1,15 @@
-# Afaaf Hariri
+# Hi, I'm Afaaf Hariri 👋
 
-I enjoy exploring new concepts, building new things and figuring out how stuff actually work under the hood.
+Cloud-native enthusiast.
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=afaafhariri&hide_title=true&border_radius=5&custom_title=Hariri+on+GitHub&hide=stars%2Cissues%2Ctrend%2Cavg%2Cactive_day%2Chours)
+## My GitHub
 
-![Top Languages](https://ghstats.dev/api/langs?username=afaafhariri&hide_title=true&custom_title=Hariri+on+GitHub&max_langs=6&layout=donut)
+[![afaafhariri's GitHub stats](https://gitshine.com/card/afaafhariri?theme=night)](https://gitshine.com/stats/afaafhariri)
+
+[![afaafhariri's GitHub badges](https://gitshine.com/badges/afaafhariri?theme=night)](https://gitshine.com/stats/afaafhariri#badges)
+
+See my year on GitHub: [afaafhariri's GitHub Wrapped](https://gitshine.com/wrapped/afaafhariri)
+
+## Find me
+
+[X](https://x.com/HaririCodes) · [LinkedIn](https://www.linkedin.com/in/afaaf-hariri) · [Email](mailto:haririafaaf@gmail.com)
